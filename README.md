@@ -478,7 +478,7 @@ Personal Commands
 ![image](https://github.com/Clasps/Nycto/assets/20675025/9b6bdeee-e0e7-4eb5-a924-913ea3f21705)
 
   
-31. **wtblookup** - This command allows users to search against the wtb database, to find users looking to buy a specific roll. This will mainly be user for selling your own rivens.
+31. **wtblookup** - This command allows users to search against the wtb database, to find users looking to buy a specific roll. This will mainly be used for selling your own rivens.
     * Usage: .wtblookup <riven_stats>
       * Example: .wtblookup cc cd ms -mag vectis
     * Displays: 
