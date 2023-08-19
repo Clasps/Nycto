@@ -422,7 +422,7 @@ Personal Commands
       * Use .inventory X to show the grades of a specific Riven (X = Inventory Number).
         * Example: .inventory 4
       * HOW TO ADD TO INVENTORY:
-        * Use .addinv <RivenMarketImportCode> <polarity>
+        * Use .addinv <RivenMarketImportCode> <polarity> -rr<rerolls> -mr<masteryrank>
         * Accepted polarities are: (vazarin, naramon, madurai, d, -, v)
         * If you need your Riven Market import code, you can use the .grade command.
       * HOW TO DELETE FROM INVENTORY:
@@ -439,9 +439,13 @@ Personal Commands
         * Use .editinv <X>
         * This allows you to change the stats if a weapon's disposition changes.
       * You can also use .compinv to create a collage of all the Rivens in your inventory, or .compinv X to make one for any Riven in your inventory.
+        * You can include "-a" in your request to sort your collage alphabetically.
+          * Example: .compinv -a
      
 ![image](https://github.com/Clasps/Nycto/assets/20675025/808c0964-1836-4a22-a3e8-a38abfb1aecf)
 ![image](https://github.com/Clasps/Nycto/assets/20675025/5419c75d-335c-4990-a6ef-723ecf857f6e)
+![image](https://github.com/Clasps/Nycto/assets/20675025/77be51f1-a83a-4bde-b2bb-06ac736bb99b)
+
 
 
     
@@ -474,7 +478,7 @@ Personal Commands
 ![image](https://github.com/Clasps/Nycto/assets/20675025/9b6bdeee-e0e7-4eb5-a924-913ea3f21705)
 
   
-31. **wtblookup** - This command allows users to serach against the wtb database, to find users looking to buy a specific roll. This will mainly be user for selling your own rivens.
+31. **wtblookup** - This command allows users to search against the wtb database, to find users looking to buy a specific roll. This will mainly be user for selling your own rivens.
     * Usage: .wtblookup <riven_stats>
       * Example: .wtblookup cc cd ms -mag vectis
     * Displays: 
