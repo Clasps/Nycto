@@ -504,3 +504,5 @@ Personal Commands
 
 ![image](https://github.com/Clasps/Nycto/assets/20675025/cb9baf90-5eb9-46d2-98c7-ae91e6f80d51)
 
+
+I built this bot with fun in mind, while also keeping it sleek and professional. I always loved when developers put easter eggs in their projects, because it shows that the developers just wanted to have fun making something. Leaving users with a "trophy" rewarding their knowledge of the reference, or their ability to find the hidden egg lets people form a bond with the project, and thats what I want with mine. There are plenty of easter eggs and hidden commands, if you say the right things or do the right things, you might find some.
