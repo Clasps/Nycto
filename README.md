@@ -12,7 +12,7 @@ lastweek - 5,000 Nyctokens
 compare - 7,000 Nyctokens   
 inventory - 10,000 Nyctokens    
 
-**You can invite the bot to your server using [This link](https://discord.com/api/oauth2/authorize?client_id=1015703025005895691&permissions=388160&scope=bot)**
+**You can invite the bot to your server using [This link](https://discord.com/api/oauth2/authorize?client_id=1015703025005895691&permissions=388160&scope=bot)**, or you can use the **.link** command within discord.
 
 
 General Commands
